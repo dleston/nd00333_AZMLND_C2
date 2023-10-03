@@ -1,12 +1,12 @@
 # Deploying an end-to-end MLOps solution with AzureML - Udacity ML Engineer with Azure Nanodegree
 
-In this project I have demonstrated my ability to create an end-to-end ML solution, including training a ML model using Azure AutoML, deploying the best performing model as a REST endpoint for inference, and publishing the training pipeline as an endpoint as well in order to retrain the model if needed. --and using a python script to post inference requests
+In this project I have demonstrated my ability to create an end-to-end ML solution, including training a ML model using Azure AutoML, deploying the best performing model as a REST endpoint for inference, and publishing the training pipeline as an endpoint as well in order to retrain the model if needed.
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps.
+
 - The first step required me to register the bank marketing dataset that has been used as a toy dataset.
 ![Alt text](https://github.com/dleston/nd00333_AZMLND_C2/blob/master/screenshots/registered_dataset.png?raw=true)
 - I created a new AutoML experiment that would run in a compute cluster that I created for that purpose.
