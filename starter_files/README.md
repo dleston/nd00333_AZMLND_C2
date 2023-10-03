@@ -29,3 +29,8 @@ In this project I have demonstrated my ability to create an end-to-end ML soluti
 
 ## Screen Recording
 [https://youtu.be/IKeApCYjE4M](https://youtu.be/IKeApCYjE4M)
+
+## Standout Suggestions
+- We could probably improve the training step. The goal of this module was to learn MLOps and we thus disregarded crucial steps in model training, such as controlling the perfomance of the model over external sets, or using a validation set.
+- I would have liked to explore different flavors of deployment, such as using AKS, real-time and batch deployments...
+- Finally, something I'd also like to checkout is the usage of rules for automatic retraining rather than a scheduled retrain. Also monitoring for dataset drift, and other crucial steps of MLOps. The fact that the dataset is static is also something that would be great to change. Make it dynamic, expandable... as any dataset tends to be once we gather extra data!
