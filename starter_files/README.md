@@ -3,7 +3,7 @@
 In this project I have demonstrated my ability to create an end-to-end ML solution, including training a ML model using Azure AutoML, deploying the best performing model as a REST endpoint for inference, and publishing the training pipeline as an endpoint as well in order to retrain the model if needed.
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step.
+![Alt text](https://github.com/dleston/nd00333_AZMLND_C2/blob/master/screenshots/architecture.png?raw=true)
 
 ## Key Steps
 
