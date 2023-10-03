@@ -12,7 +12,7 @@ In this project I have demonstrated my ability to create an end-to-end ML soluti
 - I created a new AutoML experiment that would run in a compute cluster that I created for that purpose.
 ![Alt text](https://github.com/dleston/nd00333_AZMLND_C2/blob/master/screenshots/automl_experiment_complete.png?raw=true)
 - I then selected the best performing model, in this case a weighted average of several models, and deployed it as a REST endpoint using an Azure Container Instance (ACI).
-(https://github.com/dleston/nd00333_AZMLND_C2/blob/master/screenshots/best_automl_model.png?raw=true)
+![Alt text](https://github.com/dleston/nd00333_AZMLND_C2/blob/master/screenshots/best_automl_model.png?raw=true)
 - I enabled Application Insights once the deployment was healthy through the python SDK in order to retrieve logs.
 ![Alt text](https://github.com/dleston/nd00333_AZMLND_C2/blob/master/screenshots/application_insights_enabled.png?raw=true)
 ![Alt text](https://github.com/dleston/nd00333_AZMLND_C2/blob/master/screenshots/logs.png?raw=true)
